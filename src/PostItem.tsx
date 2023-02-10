@@ -44,6 +44,8 @@ const NativeText = ({
 }) => {
   // const style = {width: '100%', height};
   // return <RTNCenteredText style={style} text={children} />;
+
+  // TODO: Once RTNCenteredText has been added, comment the code line below
   return <Text style={styles.label}>{children}</Text>;
 };
 
