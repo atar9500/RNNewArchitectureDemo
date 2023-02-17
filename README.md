@@ -24,11 +24,11 @@ A simple demo showcasing React Native's performance in both old and new architec
 1. Run `yarn add ./RTNCenteredText`.
 2. **Android:** Run `yarn android-link` to trigger codegen.
 3. **iOS:** Run `yarn ios-link` to trigger codegen.
-4. To render the Fabric Component, follow the `TODO` comments under `src/PostItem.tsx`
+4. To render the Fabric Component, follow the `TODO` comments under `src/PostItem.tsx`.
 
 ## Results
 
-The results below has been tested on Samsung Galaxy A70
+The results below has been tested on Samsung Galaxy A70:
 
 |                | Old Architecture | New Architecture |
 | -------------- | ---------------- | ---------------- |
