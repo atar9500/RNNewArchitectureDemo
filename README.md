@@ -28,6 +28,8 @@ A simple demo showcasing React Native's performance in both old and new architec
 
 ## Results
 
+The results below has been tested on Samsung Galaxy A70
+
 |                | Old Architecture | New Architecture |
 | -------------- | ---------------- | ---------------- |
 | Average JS FPS | 2.4              | 58.5             |
