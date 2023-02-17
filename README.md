@@ -12,7 +12,7 @@ A simple demo showcasing React Native's performance in both old and new architec
 
 1.  If you haven't, please run `yarn` first.
 2.  Navigate to the `ios` folder and run `pod install`.
-3.  Run either `yarn android` or `yarn ios`.
+3.  Run either `yarn android` or `yarn ios`, make sure you run on a device.
 
 ## Switching to the new architecture
 
