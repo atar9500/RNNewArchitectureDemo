@@ -17,7 +17,7 @@
   "dependencies": {
     "@faker-js/faker": "^7.6.0",
     "react": "18.2.0",
-    "react-native": "0.71.1",
+    "react-native": "0.71.8",
     "rtn-centered-text": "./RTNCenteredText"
   },
   "devDependencies": {
